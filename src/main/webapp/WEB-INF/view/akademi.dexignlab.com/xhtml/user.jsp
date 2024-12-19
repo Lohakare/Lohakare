@@ -1105,7 +1105,7 @@
 							<li><a href="uiButton">Button</a></li>
 							<li><a href="uiModal">Modal</a></li>
 							<li><a href="uiButtonGroup">Button Group</a></li>
-							<li><a href="ui-list-group.html">List Group</a></li>
+							<li><a href="uiListGroup">List Group</a></li>
 							<li><a href="ui-card.html">Cards</a></li>
 							<li><a href="ui-carousel.html">Carousel</a></li>
 							<li><a href="ui-dropdown.html">Dropdown</a></li>

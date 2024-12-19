@@ -313,6 +313,13 @@ public class HomeController {
 		modelAndView.setViewName("/akademi.dexignlab.com/xhtml/ui-button-group");
 		return modelAndView;
 	}
+
+	@GetMapping("uiListGroup")
+	public ModelAndView uiListGroup() {
+		ModelAndView modelAndView = new ModelAndView();
+		modelAndView.setViewName("/akademi.dexignlab.com/xhtml/ui-list-group");
+		return modelAndView;
+	}
 	
 	/********************* Error messege Start *************************/
 	@GetMapping("badRequest")
